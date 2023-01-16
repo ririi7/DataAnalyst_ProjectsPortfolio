@@ -5,7 +5,9 @@ Here, I share my Data Analytics and Data Science related projects to showcase my
 
 # Projects
 
-## 1. KPMG Sprocket Central - Customer Segmentation Analysis (by Forage Virtual Internship)
+## 1. KPMG Sprocket Central - Customer Segmentation Analysis 
+#### (by Forage Virtual Internship)
+
 Domain: Retail & Marketing
 
 Description: Merge and analyse multiple customers' demographic, geogrpahical and behavioural data to conclude the best customers to target for a new marketing campaign. The project required a lengthy amount of data wrangling, from imputing missing values, reformatting datatypes and values, renaming and recalculating fields, and utilised Recency Frequency and Montary Analysis with K-Means modelling to segment the customers, and identify the most highest value customers. Additionally, I also created an in-depth email for the client to explain how to mitigate the Data Quality issues present in their datasets, and prepared a powerpoint presentation to explain the steps involved in analysing their data.
@@ -24,6 +26,6 @@ Description: Examining the relationships of health features that are most respon
 
 Tools: Jupyter Notebook, Python Libraries, Tableau
 
-View [Anlysis Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Capstone%20Project%203.pdf)
+View [Analysis Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Capstone%20Project%203.pdf)
 
 View [Tableau Dashboard](https://public.tableau.com/views/HeartAttackFactors_16738268795260/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)

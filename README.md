@@ -6,5 +6,13 @@ I enjoy data wrangling, and exploring meaningful insights. Here, I share my Data
 # Projects
 
 ### 1. KPMG Sprocket Central - Customer Segmentation Analysis (by Forage Virtual Internship)
+
+Description: Merge and analyse multiple customers' demographic, geogrpahical and behavioural data to conclude the best customers to target for a new marketing campaign. The project required a lengthy amount of data wrangling, from imputing missing values, reformatting datatypes and values, renaming and recalculating fields, and utilised Recency Frequency and Montary Analysis with K-Means modelling to segment the customers, and identify the most highest value customers. 
+
 Tools: Excel, Jupyter Notebook, Python Libraries, Tableau, PowerPoint
-View Analysis: [Link](
+
+View [Analysis Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/mini-Forage's%20KPMG%20for%20Sprocket%20Central%20Pty%20Ltd-Copy1.pdf)
+
+View [Tableau Dashboard](https://public.tableau.com/views/SprocketCentralCustomerSegmentation/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+

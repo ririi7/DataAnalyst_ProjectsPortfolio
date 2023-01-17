@@ -1,6 +1,6 @@
 # Ricka Johan - Data Analyst Portfolio
 ## About
-Hello, I'm Ricka. I've recently completed my bootcamp masters program in Data Analytics, and am currently working towards my Professional Certificate in Data Analytics. My background is from Business Improvement & Quality Assurance, Recruitment & Human Resources Management. I enjoy data wrangling, and exploring meaningful insights. My long-term goal is to specialise in the Big Data realm.
+Hello, I'm Ricka. I've recently completed my bootcamp masters program in Data Analytics, and am currently working towards my Professional Certificate in Data Analytics. My background is from Business Improvement & Quality Assurance, Recruitment & Human Resource Management. I enjoy data wrangling, and exploring meaningful insights. My long-term goal is to specialise in the Big Data realm.
 Here, I share my Data Analytics and Data Science related projects to showcase my skills and track my progress in this field. 
 
 # Projects

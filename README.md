@@ -10,7 +10,7 @@ Here, I share my Data Analytics and Data Science related projects to showcase my
 
 Domain: Retail & Marketing
 
-Description: Merge and analyse multiple customers' demographic, geogrpahical and behavioural data to conclude the best customers to target for a new marketing campaign. The project required a lengthy amount of data wrangling, from imputing missing values, reformatting datatypes and values, renaming and recalculating fields, and utilised Recency Frequency and Montary Analysis with K-Means modelling to segment the customers, and identify the most highest value customers. Additionally, I also created an in-depth email for the client to explain how to mitigate the Data Quality issues present in their datasets, and prepared a powerpoint presentation to explain the steps involved in analysing their data.
+Description: Merge and analyse multiple customers' demographic, geogrpahical and behavioural data to identify the best customers to target for a new marketing campaign. The project required a lengthy amount of data wrangling, from imputing missing values, reformatting datatypes and values, renaming and recalculating fields, and utilised Recency Frequency and Monetary Analysis with K-Means modelling to segment the customers, and identify the most highest value customers. Additionally, I also created an in-depth email for the client to explain how to mitigate the Data Quality issues present in their datasets, and prepared a powerpoint presentation to explain the steps involved in analysing their data.
 
 Tools: Excel, Jupyter Notebook, Python Libraries, Tableau, PowerPoint
 

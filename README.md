@@ -6,7 +6,7 @@ Here, I share my Data Analytics and Data Science related projects to showcase my
 # Projects
 
 ## 1. Customer Segmentation with RFM Analysis and K-Means Modelling
-#### KPMG Virtual Internship by Forage, cerified.
+#### KPMG Virtual Internship by Forage, certified.
 
 Domain: Retail & Marketing
 

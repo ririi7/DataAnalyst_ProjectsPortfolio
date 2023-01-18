@@ -4,7 +4,18 @@ Hello, I'm Ricka. I've recently completed my bootcamp masters program in Data An
 
 # Projects
 
-## 1. Customer Segmentation with RFM Analysis and K-Means Modelling
+## 1. Employee Performance Mapping with SQL
+
+Domain: Human Resource Management
+
+Description: Joining 3 datasets, generate reports on employee details,  performance, and on the projects undertaken for a Data Science company seeking to analyze the employee database and extract specific data based on employee performance.
+
+Tools: MySQL
+
+View [Analysis Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/cdSQLscienceQtech1.pdf)
+
+
+## 2. Customer Segmentation with RFM Analysis and K-Means Modelling
 #### Project by KPMG, Forage's Virtual Internship [certificate of completion](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/KPMG%20AU_9uBbwoovpYXJDNtNs_1673847610052_completion_certificate.pdf)
 
 Domain: Retail & Marketing
@@ -19,7 +30,7 @@ View [Tableau Dashboard](https://public.tableau.com/views/SprocketCentralCustome
 
 
 
-## 2. Studying Factors Responsible for Heart Attacks with Logistic Regression
+## 3. Studying Factors Responsible for Heart Attacks with Logistic Regression
 Domain: Health Analytics
 
 Description: Examining the relationships of health features that are most responsible for Heart Attacks by applying Logistic Regression for predicting the test data. The results are then validated by Confusion Matrix, and Model Performance indicators such as the Recall, Accuracy and Precision scores.

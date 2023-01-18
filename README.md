@@ -19,7 +19,7 @@ View [Tableau Dashboard](https://public.tableau.com/views/SprocketCentralCustome
 
 
 
-## 2. Factors Responsible for Heart Attacks with Logistic Regression
+## 2. Studying Factors Responsible for Heart Attacks with Logistic Regression
 Domain: Health Analytics
 
 Description: Examining the relationships of health features that are most responsible for Heart Attacks by applying Logistic Regression for predicting the test data. The results are then validated by Confusion Matrix, and Model Performance indicators such as the Recall, Accuracy and Precision scores.

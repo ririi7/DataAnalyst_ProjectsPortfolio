@@ -1,6 +1,6 @@
 # Ricka Johan - Junior Data Analyst Portfolio
 ## About
-Hello, I'm Ricka. I've recently completed my bootcamp masters program in Data Analytics, and am currently working towards my Professional Certificate in Data Analytics. My background is from Business Improvement & Quality Assurance, Recruitment & working with Human Resource Information Systems. Entering into the Data Analytics field has been a long-term desire, to enact my problem-solving and reporting skills. Thankfully, after the pandemic lockdowns I was finally able to resume my learning. My long-term goal is to specialise in the Big Data realm. Here, I share my Data Analytics and Data Science related projects to showcase my skills and track my progress in this field. 
+Hello, I'm Ricka. I've recently completed my bootcamp masters program in Data Analytics, and am currently working towards my Professional Certificate in Data Analytics. My background is from Business Improvement & QA, Recruitment & working with Human Resource Information Systems. Entering into the Data Analytics field has been a long-term desire, to enact my problem-solving and reporting skills. Thankfully, after the pandemic lockdowns I was finally able to resume my learning. My long-term goal is to specialise in the Big Data realm. Here, I share my Data Analytics and Data Science related projects to showcase my skills and track my progress in this field. 
 
 # Projects
 

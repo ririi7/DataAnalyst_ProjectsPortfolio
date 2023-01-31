@@ -1,6 +1,6 @@
 # Ricka Johan - Junior Data Analyst Portfolio
 ## About
-Hello, I'm Ricka. I've recently completed my bootcamp masters program in Data Analytics, and am currently working towards my Professional Certificate in Data Analytics. My background is from Business Improvement & Quality Assurance, Recruitment & working with Human Resource Information Systems. Entering into the Data Analytics field has been a long-term desire, to enact my problem-solving and reporting skills. Thankfully, after the pandemic lockdowns I was finally able to resume my learning. I enjoy data wrangling, and exploring meaningful insights. My long-term goal is to specialise in the Big Data realm. Here, I share my Data Analytics and Data Science related projects to showcase my skills and track my progress in this field. 
+Hello, I'm Ricka. I've recently completed my bootcamp masters program in Data Analytics, and am currently working towards my Professional Certificate in Data Analytics. My background is from Business Improvement & Quality Assurance, Recruitment & working with Human Resource Information Systems. Entering into the Data Analytics field has been a long-term desire, to enact my problem-solving and reporting skills. Thankfully, after the pandemic lockdowns I was finally able to resume my learning. My long-term goal is to specialise in the Big Data realm. Here, I share my Data Analytics and Data Science related projects to showcase my skills and track my progress in this field. 
 
 # Projects
 
@@ -40,3 +40,9 @@ Tools: Jupyter Notebook, Python Libraries, Tableau
 View [Analysis Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Capstone%20Project%203.pdf)
 
 View [Tableau Dashboard](https://public.tableau.com/views/HeartAttackFactors_16738268795260/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+
+
+# Additional Projects
+1. Zomato Restaurants EDA using [Python link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/checkedcapstone1restaurants.pdf) and [Power BI link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Zomato%20PDF%20Portfolio.pdf)

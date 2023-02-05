@@ -24,7 +24,7 @@ Description: Merge and analyse multiple customers' demographic, geogrpahical and
 
 Tools: Excel, Jupyter Notebook, Python Libraries, Tableau, PowerPoint
 
-View [Analysis Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/mini-Forage's%20KPMG%20for%20Sprocket%20Central%20Pty%20Ltd-Copy1.pdf)
+View [Analysis Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Forage's%20KPMG%20for%20Sprocket%20Central%20Pty%20Ltd.pdf)
 
 View [Tableau Dashboard](https://public.tableau.com/views/SprocketCentralCustomerSegmentation/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -37,7 +37,7 @@ Description: Examining the relationships of health features that are most respon
 
 Tools: Jupyter Notebook, Python Libraries, Tableau
 
-View [Analysis Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Capstone%20Project%203.pdf)
+View [Analysis Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Capstone%20Project%203%20pdfhtml.pdf)
 
 View [Tableau Dashboard](https://public.tableau.com/views/HeartAttackFactors_16738268795260/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -45,4 +45,5 @@ View [Tableau Dashboard](https://public.tableau.com/views/HeartAttackFactors_167
 
 
 # Additional Projects
-1. Zomato Restaurants EDA using [Python link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/checkedcapstone1restaurants.pdf) and [Power BI link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Zomato%20PDF%20Portfolio.pdf)
+1. Zomato Restaurants EDA using Python [Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/checkedcapstone1restaurants.pdf) and [Power BI link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Zomato%20PDF%20Portfolio.pdf)
+2. Understanding Lego Sets by Popularity using Python [Link](https://github.com/ririi7/DataAnalyst_ProjectsPortfolio/blob/main/Legonotebook.pdf)
